@@ -1,2 +1,2 @@
 # firstRepository
-Hello word!!!
+Hello world!!!
